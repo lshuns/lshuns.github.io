@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Astrophysics, Leiden University, 2023 (expected)
+* MSc in Astrophysics, University of Chinese Academy of Sciences, 2019
+* BSc in Astronomy, Nanjing University, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-present: Research Assistant
+  * Leiden Observatory
+  * Topics: consistency test for cosmic shear analysis, image simulations for weak lensing calibrations, cosmology with cosmic shear, dark matter properties with galaxy-galaxy lensing 
+  * Supervisor: Koen Kuijken & Henk Hoekstra
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2019 : Research Assistant
+  * National Astronomical Observatory of China
+  * Topics: gravitational lensing of gravitational waves, analysis of microlensing event 
+  * Supervisor: Shude Mao
   
-Skills
+Key skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python (advanced)
+  * C/C++ (intermediate)
+  * Julia (basic)
+* Survey/Data
+  * Kilo-Degree Survey (member)
+  * Flagship simulations (tester)
+  * SURFS-Shark simulations (user)
+  * Galaxy And Mass Assembly data (user)
+  * Flamingo simulations (user)
 
 Publications
 ======
@@ -53,7 +57,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
