@@ -3,7 +3,7 @@ title: "Gravitational lensing of gravitational waves: a statistical perspective"
 collection: publications
 permalink: /publication/2018-05-GL-of-GWs-statistics-number-1
 excerpt: 'This paper is about the strong gravitational lensing of gravitational waves.'
-date: 2018-05
+date: "May 2018"
 venue: 'MNRAS'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2018MNRAS.476.2220L/abstract'
 ---
