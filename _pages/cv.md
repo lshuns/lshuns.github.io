@@ -12,16 +12,27 @@ redirect_from:
 Education
 ======
 * PhD in Astrophysics, 2023 (expected)
+
     **Leiden University**, Leiden, the Netherlands
+
     Thesis: TBD
+
     Supervisor: [Prof. Koen Kuijken](https://home.strw.leidenuniv.nl/~kuijken/) & [Prof. Henk Hoekstra](https://home.strw.leidenuniv.nl/~hoekstra/)
+
 * MSc in Astrophysics, 2019
+
     **University of Chinese Academy of Sciences**, Beijing, China
+
     Thesis: Gravitational Lensing of Gravitational Waves
+
     Supervisor: [Prof. Shude Mao](http://astro.tsinghua.edu.cn/~smao/)
+
 * BSc in Astronomy, 2016
+
     **Nanjing University**, Nanjing, China
+
     Thesis: Gravitational Lensing of Gravitational Waves
+
     Supervisor: [Prof. Shude Mao](http://astro.tsinghua.edu.cn/~smao/)
 
 Research experience
