@@ -27,8 +27,6 @@ Education
 
     **Nanjing University**, Nanjing, China
 
-    Supervisor: [Prof. Shude Mao](http://i.astro.tsinghua.edu.cn/~smao/)
-
 Research experience
 ======
 * 2019-present: Research Assistant
@@ -39,7 +37,7 @@ Research experience
     * cosmology with cosmic shear 
     * dark matter properties with galaxy-galaxy lensing 
 
-* 2018-2019 : Research Assistant
+* 2017-2019 : Research Assistant
   * National Astronomical Observatory of China
   * Topics: 
     * gravitational lensing of gravitational waves
