@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
 Education
 ======
@@ -15,25 +15,19 @@ Education
 
     **Leiden University**, Leiden, the Netherlands
 
-    Thesis: TBD
-
     Supervisor: [Prof. Koen Kuijken](https://home.strw.leidenuniv.nl/~kuijken/) & [Prof. Henk Hoekstra](https://home.strw.leidenuniv.nl/~hoekstra/)
 
 * MSc in Astrophysics, 2019
 
     **University of Chinese Academy of Sciences**, Beijing, China
 
-    Thesis: Gravitational Lensing of Gravitational Waves
-
-    Supervisor: [Prof. Shude Mao](http://astro.tsinghua.edu.cn/~smao/)
+    Supervisor: [Prof. Shude Mao](http://i.astro.tsinghua.edu.cn/~smao/)
 
 * BSc in Astronomy, 2016
 
     **Nanjing University**, Nanjing, China
 
-    Thesis: Gravitational Lensing of Gravitational Waves
-
-    Supervisor: [Prof. Shude Mao](http://astro.tsinghua.edu.cn/~smao/)
+    Supervisor: [Prof. Shude Mao](http://i.astro.tsinghua.edu.cn/~smao/)
 
 Research experience
 ======
@@ -54,11 +48,11 @@ Research experience
 Teaching experience
 ======
 * Teaching Assistant
-  * Gravitational Lensing, Leiden University, 2020
   * Large-Scale Structure and Galaxy Formation, Leiden University, 2022
+  * Gravitational Lensing, Leiden University, 2020
 
 * (Co-)supervision of students
-  * Margherita Grespan (MSc student, Leiden University)
+  * Margherita Grespan (MSc student), Leiden University, 2020
   
 Key skills
 ======
