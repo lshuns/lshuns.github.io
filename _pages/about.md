@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome"
+excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,70 +9,4 @@ redirect_from:
   - /resume
 ---
 
-Hi, welcome to my home page!
-
-The website is under construction...
-
-Education
-======
-* PhD in Astrophysics, 2023 (expected)
-
-    **Leiden University**, Leiden, the Netherlands
-
-    Supervisor: [Prof. Koen Kuijken](https://home.strw.leidenuniv.nl/~kuijken/) & [Prof. Henk Hoekstra](https://home.strw.leidenuniv.nl/~hoekstra/)
-
-* MSc in Astrophysics, 2019
-
-    **University of Chinese Academy of Sciences**, Beijing, China
-
-    Supervisor: [Prof. Shude Mao](http://i.astro.tsinghua.edu.cn/~smao/)
-
-* BSc in Astronomy, 2016
-
-    **Nanjing University**, Nanjing, China
-
-Research experience
-======
-* 2019-present: Research Assistant
-  * Leiden Observatory
-  * Topics: 
-    * consistency test for cosmic shear analysis 
-    * image simulations for weak lensing calibrations
-    * cosmology with cosmic shear 
-    * dark matter properties with galaxy-galaxy lensing 
-
-* 2017-2019 : Research Assistant
-  * National Astronomical Observatory of China
-  * Topics: 
-    * gravitational lensing of gravitational waves
-    * analysis of microlensing event 
-
-Teaching experience
-======
-* Teaching Assistant
-  * Large-Scale Structure and Galaxy Formation, Leiden University, 2022
-  * Gravitational Lensing, Leiden University, 2020
-
-* (Co-)supervision of students
-  * Margherita Grespan (MSc student), Leiden University, 2020
-  
-Key skills
-======
-* Programming
-  * Python (advanced)
-  * C/C++ (intermediate)
-  * Julia (basic)
-* Survey/Data
-  * Kilo-Degree Survey (member)
-  * Flagship simulations (tester)
-  * SURFS-Shark simulations (user)
-  * Galaxy And Mass Assembly data (user)
-  * Flamingo simulations (user)
-
-Publications
-======
-  see [Publications](https://lshuns.github.io/publications/)
-  
-Talks
-======
-  see [Talks](https://lshuns.github.io/talks/)
+I am currently studying at [Leiden Observatory](https://lshuns.github.io/publications/) as a PhD student whose research interests revolve around the [gravitational lensing effect](https://en.wikipedia.org/wiki/Gravitational_lens), from its measurement to its application in other astronomical studies. I have experience with the gravitational lensing of gravitational waves (e.g. [Li et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.476.2220L/abstract)) and the data analysis of microlensing events (e.g. [Li et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.3308L/abstract)). Albeit still fascinated by these topics, my current research leans toward the weak lensing effect, including how we can robustly measure this subtle effect (e.g. Li et al. in prep.) and how it can help us explore the Universe (e.g. Li et al. in prep.).
