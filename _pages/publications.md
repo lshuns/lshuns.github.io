@@ -7,6 +7,8 @@ author_profile: true
 
 ## First- and Second- authored publications
 
+0. KiDS-Legacy calibration: Unifying shear and redshift calibration with the SKiLLS multi-band image simulations  
+**S.-S. Li**, K. Kuijken, H. Hoekstra, et al., submitted to A&A ([arXiv](https://arxiv.org/abs/2210.07163))  
 0. KiDS+VIKING-450: An internal-consistency test for cosmic shear tomography with a colour-based split of source galaxies  
 **S.-S. Li**, K. Kuijken, H. Hoekstra, et al., 2021, A&A, 646A, 175L ([adsabs](https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.175L/abstract))  
 0. OGLE-2017-BLG-1186: First Application of Asteroseismology and Gaussian Processes to Microlensing  
