@@ -13,4 +13,4 @@ I am a PhD student interested in the [gravitational lensing effect](https://en.w
 
 Before my research leaned toward weak lensing and cosmology, I also had experience with gravitational lensing of gravitational waves (e.g. [Li et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.476.2220L/abstract)) and data analysis of microlensing events (e.g. [Li et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.3308L/abstract)), which still fascinate me.
 
-My CV in PDF format is available [here](https://lshuns.github.io/files/Simple_CV.pdf).
+My CV in PDF format is available [here](https://lshuns.github.io/files/CV_withPublication.pdf).
