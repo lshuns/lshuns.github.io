@@ -23,5 +23,10 @@ var addressPoints = [
     "Sesto, Italy",
     45.5328,
     9.2257
+  ],
+  [
+    "Princeton, USA",
+    40.3573,
+    74.6672
   ]  
 ];
