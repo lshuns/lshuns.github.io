@@ -27,6 +27,6 @@ var addressPoints = [
   [
     "Princeton, USA",
     40.3573,
-    74.6672
+    254.6551
   ]  
 ];
