@@ -28,5 +28,21 @@ var addressPoints = [
     "Princeton, USA",
     40.3573,
     -74.6551
-  ]  
+  ],
+  [
+    "Durham, UK",
+    54.7753,
+    1.5849
+  ],
+  [
+    "Cambridge, UK",
+    52.1951,
+    0.1313
+  ],
+  [
+    "Edinburgh, UK",
+    55.9533,
+    3.1883
+  ]
+
 ];
