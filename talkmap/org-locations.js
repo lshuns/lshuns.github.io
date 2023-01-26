@@ -10,7 +10,7 @@ var addressPoints = [
     118.0895
   ],
   [
-    "Leiden, the Netherlands",
+    "Leiden, Netherlands",
     52.1601,
     4.4970
   ],
@@ -43,6 +43,25 @@ var addressPoints = [
     "Edinburgh, UK",
     55.9533,
     -3.1883
+  ],
+  [
+    "Stanford, USA",
+    37.4275,
+    -122.1697
+  ],
+  [
+    "Innsbruck, Austria",
+    47.2692,
+    11.4041
+  ],
+  [
+    "Munich, Germany",
+    48.1351,
+    11.5820
+  ],
+  [
+    "Groningen, Netherlands",
+    53.2194,
+    6.5665
   ]
-
 ];
