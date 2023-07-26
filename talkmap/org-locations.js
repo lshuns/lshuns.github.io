@@ -63,5 +63,15 @@ var addressPoints = [
     "Groningen, Netherlands",
     53.2194,
     6.5665
+  ],
+  [
+    "Copenhagen, Denmark",
+    55.6761,
+    12.5683
+  ],
+  [
+    "Krakow, Poland",
+    50.0647,
+    19.9450
   ]
 ];
