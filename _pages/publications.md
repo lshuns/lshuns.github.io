@@ -9,12 +9,13 @@ For a complete list with detailed citation information, please visit my profile 
 
 
 ## Submitted
-0. KiDS-1000: Cosmology with improved cosmic shear measurements
+0. KiDS-1000: Cosmology with improved cosmic shear measurements  
 **S.-S. Li**, H. Hoekstra, K. Kuijken, et al., 2023, submitted to A&A ([adsabs](https://ui.adsabs.harvard.edu/abs/2023arXiv230611124L/abstract))
-0. DES Y3 + KiDS-1000: Consistent cosmology combining cosmic shear surveys
+0. DES Y3 + KiDS-1000: Consistent cosmology combining cosmic shear surveys   
 Dark Energy Survey and Kilo-Degree Survey Collaboration, et al. (incl. **S.-S. Li**), 2023, submitted to the Open Journal of Astrophysics ([adsabs](https://ui.adsabs.harvard.edu/abs/2023arXiv230517173E/abstract))  
-0. Strong lensing selection effects
+0. Strong lensing selection effects    
 A. Sonnenfeld, **S.-S. Li**, G. Despali, et al., 2023, submitted to A&A ([adsabs](https://ui.adsabs.harvard.edu/abs/2023arXiv230113230S/abstract))  
+{: reversed="reversed"}
 
 ## Published
 
