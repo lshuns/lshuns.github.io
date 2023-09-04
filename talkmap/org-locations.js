@@ -10,9 +10,19 @@ var addressPoints = [
     118.0895
   ],
   [
+    "Shanghai, China",
+    31.2304,
+    121.4737
+  ],
+  [
     "Leiden, Netherlands",
     52.1601,
     4.4970
+  ],
+  [
+    "Groningen, Netherlands",
+    53.2194,
+    6.5665
   ],
   [
     "Blankenberge, Belgium",
@@ -30,6 +40,11 @@ var addressPoints = [
     -74.6551
   ],
   [
+    "Stanford, USA",
+    37.4275,
+    -122.1697
+  ],
+  [
     "Durham, UK",
     54.7753,
     -1.5849
@@ -45,11 +60,6 @@ var addressPoints = [
     -3.1883
   ],
   [
-    "Stanford, USA",
-    37.4275,
-    -122.1697
-  ],
-  [
     "Innsbruck, Austria",
     47.2692,
     11.4041
@@ -58,11 +68,6 @@ var addressPoints = [
     "Munich, Germany",
     48.1351,
     11.5820
-  ],
-  [
-    "Groningen, Netherlands",
-    53.2194,
-    6.5665
   ],
   [
     "Copenhagen, Denmark",
