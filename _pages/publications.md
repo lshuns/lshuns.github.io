@@ -7,20 +7,16 @@ author_profile: true
 
 For a complete list with detailed citation information, please visit my profile on the [adsabs database](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9952-7408&sort=date+desc).
 
-
-## Submitted
-0. KiDS-1000: Cosmology with improved cosmic shear measurements  
-**S.-S. Li**, H. Hoekstra, K. Kuijken, et al., 2023, submitted to A&A ([adsabs](https://ui.adsabs.harvard.edu/abs/2023arXiv230611124L/abstract))
-0. DES Y3 + KiDS-1000: Consistent cosmology combining cosmic shear surveys   
-Dark Energy Survey and Kilo-Degree Survey Collaboration, et al. (incl. **S.-S. Li**), 2023, submitted to the Open Journal of Astrophysics ([adsabs](https://ui.adsabs.harvard.edu/abs/2023arXiv230517173E/abstract))  
-0. Strong lensing selection effects    
-A. Sonnenfeld, **S.-S. Li**, G. Despali, et al., 2023, submitted to A&A ([adsabs](https://ui.adsabs.harvard.edu/abs/2023arXiv230113230S/abstract))  
+<!-- ## Submitted
 {: reversed="reversed"}
 
-## Published
+## Published -->
 
 ### First- and Second- authored publications
-
+0. KiDS-1000: Cosmology with improved cosmic shear measurements  
+**S.-S. Li**, H. Hoekstra, K. Kuijken, et al., 2023, A&A, 679A, 133L ([adsabs](https://ui.adsabs.harvard.edu/abs/2023A%26A...679A.133L/abstract))
+0. Strong lensing selection effects    
+A. Sonnenfeld, **S.-S. Li**, G. Despali, et al., 2023, A&A, 678A, 4S ([adsabs](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A...4S/abstract))  
 0. KiDS-Legacy calibration: Unifying shear and redshift calibration with the SKiLLS multi-band image simulations  
 **S.-S. Li**, K. Kuijken, H. Hoekstra, et al., 2023, A&A, 670A, 100L ([adsabs](https://ui.adsabs.harvard.edu/abs/2023A%26A...670A.100L/abstract))  
 0. KiDS+VIKING-450: An internal-consistency test for cosmic shear tomography with a colour-based split of source galaxies  
@@ -34,7 +30,8 @@ L. Dai, **S.-S. Li**, B. Zackay, et al., 2018, Phys. Rev. D, 98, 104029 ([adsabs
 {: reversed="reversed"}
 
 ### Co-authored publications
-
+0. DES Y3 + KiDS-1000: Consistent cosmology combining cosmic shear surveys   
+DES and KiDS Collaboration, et al. (incl. **S.-S. Li**), 2023, OJAp, 6E, 36D ([adsabs](https://ui.adsabs.harvard.edu/abs/2023OJAp....6E..36D/abstract))  
 0. Spitzer + VLTI-GRAVITY Measure the Lens Mass of a Nearby Microlensing Event  
 W. Zang, et al. (incl. **S.-S. Li**), 2020, ApJ, 897, 180Z ([adsabs](https://ui.adsabs.harvard.edu/abs/2020ApJ...897..180Z/abstract))  
 0. Spitzer Microlensing Parallax Reveals Two Isolated Stars in the Galactic Bulge  
