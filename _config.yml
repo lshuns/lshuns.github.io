@@ -1,3 +1,7 @@
+# @Author: lshuns
+# @Date:   2024-05-24 12:54:31
+# @Last Modified by:   lshuns
+# @Last Modified time: 2025-09-01 17:44:30
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -10,7 +14,7 @@ locale                   : "en"
 title                    : "Shun-Sheng Li"
 title_separator          : "-"
 name                     : &name "Shun-Sheng Li"
-description              : &description "someone curious about our universe"
+description              : &description "someone curious about the universe"
 url                      : https://lshuns.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lshuns/lshuns.github.io"
@@ -81,13 +85,13 @@ analytics:
 # Site Author
 author:
   name             : "Shun-Sheng Li"
-  avatar           : "doraemon.png"
-  bio              : "someone curious about our Universe"
-  location         : "Leiden"
+  avatar           : "DSC_4709.JPG"
+  bio              : "someone curious about the universe"
+  location         : "Stanford, CA 94305, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=f1InXlcAAAAJ&hl=en"
-  email            : "ssli@strw.leidenuniv.nl"
+  email            : 
   researchgate     :
   uri              :
   bitbucket        :

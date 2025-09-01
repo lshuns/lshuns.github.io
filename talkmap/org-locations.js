@@ -1,3 +1,9 @@
+/**
+ * @Author: lshuns
+ * @Date:   2024-05-24 12:54:31
+ * @Last Modified by:   lshuns
+ * @Last Modified time: 2025-09-01 19:24:38
+ */
 var addressPoints = [
   [
     "Beijing, China",
@@ -78,5 +84,15 @@ var addressPoints = [
     "Krakow, Poland",
     50.0647,
     19.9450
+  ],
+  [
+    "Marseille, France",
+    43.3026,
+    5.3691
+  ],
+  [
+    "Paris, France",
+    48.8575,
+    2.3514
   ]
 ];
