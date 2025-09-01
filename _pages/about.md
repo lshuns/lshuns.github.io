@@ -9,7 +9,7 @@ redirect_from:
   - /resume
 ---
 
-I am a KIPAC Rubin Fellow at the [Kavli Institute for Particle Astrophysics and Cosmology](https://kipac.stanford.edu/) at Stanford University. I received my PhD from [Leiden University](https://www.universiteitleiden.nl/en) on October 25, 2023, with a thesis titled [*Cosmic Tomography with Weak Gravitational Lensing*](https://scholarlypublications.universiteitleiden.nl/handle/1887/3645974). Before that, I earned an MSc in Astrophysics from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) and a BSc in Astronomy from [Nanjing University](https://www.nju.edu.cn/en/). 
+I am a KIPAC Rubin Fellow at the [Kavli Institute for Particle Astrophysics and Cosmology](https://kipac.stanford.edu/) at Stanford University. I received my PhD from [Leiden University](https://www.universiteitleiden.nl/en) on October 25, 2023, with a thesis titled [Cosmic tomography with weak gravitational lensing](https://scholarlypublications.universiteitleiden.nl/handle/1887/3645974). Before that, I earned an MSc in Astrophysics from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) and a BSc in Astronomy from [Nanjing University](https://www.nju.edu.cn/en/). 
 
 <!-- Prior to moving to the Bay Area, I held short postdoctoral positions at the [Laboratoire d'Astrophysique de Marseille](https://www.lam.fr/en/) and the [German Centre for Cosmological Lensing](https://gccl-rub.github.io/) at Ruhr-Universität Bochum.   -->
 

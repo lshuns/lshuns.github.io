@@ -1,7 +1,7 @@
 # @Author: lshuns
 # @Date:   2024-05-24 12:54:31
 # @Last Modified by:   lshuns
-# @Last Modified time: 2025-09-01 17:44:30
+# @Last Modified time: 2025-09-01 19:35:03
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Shun-Sheng Li"
-  avatar           : "DSC_4709.JPG"
+  avatar           : "test.png"
   bio              : "someone curious about the universe"
   location         : "Stanford, CA 94305, USA"
   employer         :

@@ -1,9 +1,3 @@
-/**
- * @Author: lshuns
- * @Date:   2024-05-24 12:54:31
- * @Last Modified by:   lshuns
- * @Last Modified time: 2025-09-01 19:24:38
- */
 var addressPoints = [
   [
     "Beijing, China",
