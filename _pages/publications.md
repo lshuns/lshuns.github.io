@@ -7,12 +7,13 @@ author_profile: true
 
 Below is a selection of publications to which I have made major contributions (as first author, second author, or student lead). For a complete list with full citation details, please see my profile on the [adsabs database](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9952-7408&sort=date+desc).
 
-## Submitted
-0. Blending effects on shear measurement synergy between Euclid-like and LSST-like surveys  
-S. Zhang, **S.-S. Li**, H. Hoekstra, arXiv:2506.22658 ([adsabs](https://ui.adsabs.harvard.edu/abs/2025arXiv250622658Z/abstract))
+<!-- ## Submitted
 {: reversed="reversed"}
 
-## Published
+## Published -->
+
+0. Blending effects on shear measurement synergy between Euclid-like and LSST-like surveys  
+S. Zhang, **S.-S. Li**, H. Hoekstra, 2025, A&A, 702A, 166Z ([adsabs](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A.166Z/abstract))
 0. Weak lensing constraints on the stellar-to-halo mass relation of galaxy groups with simulation-informed scatter  
 **S.-S. Li**, H. Hoekstra, K. Kuijken, et al., 2025, A&A, 700A, 202L ([adsabs](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.202L/abstract))
 0. KiDS-1000: Cosmology with improved cosmic shear measurements  
